@@ -6,3 +6,6 @@ _site
 .jekyll-metadata
 import/
 ssl/
+
+node_modules/
+package-lock.json
