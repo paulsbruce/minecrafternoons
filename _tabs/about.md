@@ -4,15 +4,15 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# This club
+## This club
 
 This is a small but potent group of Minecrafters.
 
-# How to get a guest invitation
+## How to get a guest invitation
 
 Talk to one of our club members to receive an invite card. You must have two members vouch for you by stamping your invite card. Present your invite card to the club leader upon arriving. Your first visit as a guest is on us.
 
-# Attending a club meeting
+## Attending a club meeting
 
 We have a [Code of Conduct](/code-of-conduct) which all members agree to follow while at our meetings. Guests who exhibit unacceptable behavior will not be invited back.
 
@@ -20,10 +20,6 @@ To cover cost of snacks, drinks, and awards, each person attending pays club due
 
 Non-members pay slightly more than members.
 
-# How to become a member
+## Full Membership
 
-After attending four (4) meetings, you have the opportunity to become a full-fledged member. This discounts the cost of attending meetings to member-rate club dues.
-
-# Maintaining member status
-
-You may maintain your member status for one year without attending meetings. You do not have to pay for meetings you miss unless you have paid up front. We have a no refund policy.
+For more information on becoming a full member, see our [Membership](/membership) page.
